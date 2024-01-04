@@ -163,10 +163,10 @@ margin-left: 230px;
 } 
 footer{
     padding-top: 40px;
-    /* border: 1px solid saddlebrown; */
+
     background-color: rgb(57, 57, 58);
     color: rgb(138, 137, 137);
-    font-size: smaller;
+    font-size: 17px;
     padding-bottom: 40px;
 }
 .foot{
@@ -176,7 +176,7 @@ footer{
 }
 .foot>div{
     display: flex;
-    margin-left: 500px;
+    margin-left: 650px;
 }
 hr{
     width: 820px;
@@ -184,10 +184,10 @@ hr{
     background-color: rgb(33, 33, 34);
 }
 .foot>div>p{
-    /* border: 1px solid saddlebrown; */
-    /* display: flex; */
+ 
  text-align: center;
  margin-top: 8px;
+ margin-bottom: 40px;
 
 }
 .arrange{
@@ -199,7 +199,7 @@ margin-top: 30px;
 }
 .arrange>div{
     display: flex;
-    margin-left: 240px;
+    margin-left: 330px;
 }
 .arrange>div>p{
     /* border: 1px solid saddlebrown; */
